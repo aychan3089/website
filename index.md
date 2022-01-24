@@ -22,6 +22,7 @@ Remember to put a picture of myself here :) -->
 
 #### Global Risk Data Analyst - Paysafe 
 ![Paysafe logo](img/paysafe-logo.png)
+
 October 2021 - December 2021
 
 My main function was to create SQL queries and Excel/Tableau reports on an ad-hoc basis for senior management. I used both SQL-Server and Vertica-SQL to query from our local and global databases to pull merchant demographic data and daily/batch transactional data to calculate KPIs and identify possible risk areas. 
@@ -30,6 +31,7 @@ Unfortunately, the company profits was not doing well and my entire group was la
 
 #### Data Science Intern - Intel
 ![Intel Logo](img/Intel-logo.png)
+
 October 2020 - August 2021
 
 At Intel, I created and managed multiple Power BI dashboards regarding internal sales for the Optane department. I mainly used Python or Power BI's internal Power Query to manipulate my data. I also had opportunities to present my dashboards to upper management which included both a technical and non-technical audience. 
@@ -61,5 +63,7 @@ Aka just buy low sell high
 ### contact me (if you really want to i guess)
 
 Email: aychan3089@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/aychan3089/ 
+
 GitHub: https://github.com/aychan3089/
